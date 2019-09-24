@@ -1,6 +1,8 @@
 package javaQuestions;
 
 
+import java.util.Arrays;
+
 public class TriviaApp extends gameMethods {
 
     public static void main(String[] args) {
@@ -11,6 +13,6 @@ public class TriviaApp extends gameMethods {
 
 
     }
-
-
 }
+
+
